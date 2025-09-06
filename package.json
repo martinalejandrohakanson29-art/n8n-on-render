@@ -1,0 +1,16 @@
+{
+  "name": "mi-app-render",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.17.3",
+    "connect-pg-simple": "^9.0.0",
+    "pg": "^8.11.3",
+    "express-rate-limit": "^7.5.0",
+    "bcrypt": "^5.1.1"
+  }
+}
